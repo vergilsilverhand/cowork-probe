@@ -1,5 +1,0 @@
-{
-  "name": "cowork-probe",
-  "version": "0.0.1",
-  "description": "Throwaway probe: inspect Cowork plugin runtime — persistent anchor for a fresh-shell clone, writability, cross-step shell state."
-}

@@ -1,0 +1,5 @@
+{
+  "name": "cowork-probe",
+  "version": "0.0.1",
+  "description": "Throwaway probe: inspect Cowork plugin runtime (paths, writability, fresh-shell state)."
+}

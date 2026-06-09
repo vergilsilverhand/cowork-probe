@@ -2,12 +2,14 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "vergilsilverhand-cowork-probe",
   "description": "Cowork runtime probe marketplace",
+  "owner": { "name": "vergilsilverhand" },
   "plugins": [
     {
       "name": "cowork-probe",
       "description": "Cowork runtime probe.",
       "version": "0.0.1",
-      "source": "./"
+      "source": "./plugins/cowork-probe",
+      "category": "development"
     }
   ]
 }
