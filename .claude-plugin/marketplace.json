@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "cowork-probe",
+      "version": "0.0.1",
+      "description": "Cowork runtime probe.",
+      "source": { "type": "git", "url": "https://github.com/vergilsilverhand/cowork-probe.git", "path": "./" }
+    }
+  ]
+}
